@@ -6,4 +6,4 @@ The RP is in a very early stage and i will be able to work on it only in my free
 
 ![2024-04-22_18 02 39](https://github.com/ElMonetina/SimpleLabPBR/assets/79310913/b3d979a9-cfd6-4aca-8925-81e33b40b719)
 
-SimpleLabPBR started as a personal project, but I quickly decided to maki it public and free, which it will always remain.
+SimpleLabPBR started as a personal project, but I quickly decided to make it public and free, which it will always remain.
